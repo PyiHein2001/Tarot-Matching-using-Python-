@@ -24,3 +24,14 @@ You need to download python and Tkinter.
 ![App Screenshot](Screeshoot/Shuffle.png)
 
 ![App Screenshot](Screeshoot/Ans.png)
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+## Badges
+
+
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
