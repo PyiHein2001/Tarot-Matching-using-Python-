@@ -19,11 +19,11 @@ You need to download python and Tkinter.
     
 ## Screenshot
 
-![App Screenshot](Screeshoot/Home.png)
+![App Screenshot](Screeshot/Home.png)
 
-![App Screenshot](Screeshoot/Shuffle.png)
+![App Screenshot](Screeshot/Shuffle.png)
 
-![App Screenshot](Screeshoot/Ans.png)
+![App Screenshot](Screeshot/Ans.png)
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
